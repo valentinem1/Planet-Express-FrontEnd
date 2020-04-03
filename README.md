@@ -23,7 +23,6 @@ Before you begin, ensure you have installed the latest version of:
 - PostgreSQL
 
 ## Installing
-_Note: Without an Etsy API key, the project will not be able to have any data_<br />
 
 To launch the app you'll have to follow the following steps:
 
