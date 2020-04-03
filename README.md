@@ -2,6 +2,8 @@
 
 A `JavaScript and Rails` Web App providing tickets to the solar system with realistic orbital transfer windows and travel times.<br/>
 
+## Technologies
+
 ***Link to [Back End Repository](https://github.com/valentinem1/Planet-Express-API)***<br/>
 
 **Front End:** 
