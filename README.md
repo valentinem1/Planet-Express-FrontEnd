@@ -1,4 +1,4 @@
-<h1 align="center">Planet Express ✈️🚀</h1>
+<h1 align="center">Planet Express 🚀</h1>
 
 A `JavaScript and Rails` Web App providing tickets to the solar system with realistic orbital transfer windows and travel times.<br/>
 
